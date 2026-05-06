@@ -37,14 +37,17 @@
 
 办公助手Agent是一个全能型的智能办公助手系统。它通过模块化的 Agent 架构，将学术文献处理、职场周报、会议记录及 PPT 自动化生成深度集成，并提供智能对话与私密知识库管理功能，旨在为用户提供从输入到输出的全流程效率支持。
 
-> **Notice**: 后端代码因商业化规划暂未对外开放。目前项目已完成 MVP 版本开发。
+> **Notice**: 本项目只是学习使用做的，非商业化，代码即将开源。目前项目已完成 MVP 版本开发。
 
 ---
 
 ## realease
 
-目前已支持安卓平板端、苹果PC端、Windows系统，还未适配安卓手机端以及iPhone、iPad（目前缺少Apple ID 签名），已经支持的部分软件包请点击![Android/Mac/Windows](https://github.com/GUET1-304A/AI-office-Assistant-Official-Version/releases)
+目前已支持安卓平板端、苹果PC端、Windows系统，还未适配安卓手机端以及iPhone、iPad（目前缺少Apple ID 签名），已经支持的部分软件包请点击[Android/Mac/Windows](https://github.com/GUET1-304A/AI-office-Assistant-Official-Version/releases)
 。
+
+> **注**: 三个软件包均为Beta版。
+
 ## Core Capabilities
 
 - **智能对话** — 自动筛选所需功能插件并自动执行任务
@@ -115,6 +118,7 @@ docker compose up -d --build
 ## Beta Program
 
 目前已经完成 MVP 阶段开发。
+
 ---
 
 ## License
