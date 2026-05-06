@@ -41,6 +41,10 @@
 
 ---
 
+## realease
+
+目前已支持安卓平板端、苹果PC端、Windows系统，还未适配安卓手机端以及iPhone、iPad（目前缺少Apple ID 签名），已经支持的部分软件包请点击![Android/Mac/Windows](https://github.com/GUET1-304A/AI-office-Assistant-Official-Version/releases)
+。
 ## Core Capabilities
 
 - **智能对话** — 自动筛选所需功能插件并自动执行任务
